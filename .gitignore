@@ -3,3 +3,6 @@
 *.XLS
 
 *.html
+
+.DS_Store
+
